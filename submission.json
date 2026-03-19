@@ -5,19 +5,3 @@
   "dataset_url": "https://www.unesco.org/languages-atlas/",
   "insight": "Despite hundreds of languages falling silent each decade, revitalization movements in communities like Hawaii and New Zealand prove that no language is beyond saving."
 }
-```
-
----
-
-### Step 5
-Scroll down → Click **"Commit changes"** → Click **"Commit changes"** again
-
----
-
-### Step 6
-Get the raw URL:
-- Click on `submission.json`
-- Click **"Raw"**
-- Copy the URL:
-```
-https://raw.githubusercontent.com/Darriaosline/affective-chart/main/submission.json
